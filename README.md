@@ -19,7 +19,7 @@ Results are validated against reference solutions (finite-difference or analytic
 |---|---|---|
 | `heat/` | 2D heat-equation PINN notebook | Manish |
 | `rlc_circuit/` | RLC circuit PINN and transmission-line extension | Yug |
-| `results/` | Plots and figures (small files only) | Both |
+| `results/` | Plots and figures (NO results yet) | Both |
 
 ## How to run
 
